@@ -1,0 +1,8 @@
+:root {
+    --Primary-color: #4F46E5; /* (Indigo) Brand identity, buttons, links*/
+    --Secondary-color: #F97316; /* (Orange) CTAs, highlights, sale tags */
+    --Accent:#22C55E;	/*(Green) Success states, badges*/
+    --Background: #F9FAFB; /*	Page backgrounds */
+    --Primary-Text: #111827;	 /*Titles, product names */
+    --Muted-Text: #6B7280;
+}
